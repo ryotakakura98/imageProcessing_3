@@ -15,7 +15,7 @@
 </ul>
 
 <H3>アウトプット</H3>
-simplyPasted.pngはポワソン画像合成を行わずに、climber.jpegをcliff.jpgに張り付けただけ場合ののアウトプットです。
+simplyPasted.pngはポワソン画像合成を行わずに、climber.jpegをcliff.jpgに張り付けただけの場合のアウトプットです。
 <ul>
   <li><a href="https://github.com/ryofslife/imageProcessing_3/blob/main/simplyPasted.png">🔗simplyPasted.png</a></li>
   <li><a href="https://github.com/ryofslife/imageProcessing_3/blob/main/poissonBlended.png">🔗poissonBlended.png</a></li>
